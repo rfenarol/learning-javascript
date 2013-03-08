@@ -7,3 +7,5 @@ function fibonacci(i){
 
 fibonacci[1]=0;
 fibonacci[2]=1;
+
+alert("apri la console!");
